@@ -3,4 +3,10 @@
     <string name="add_movie">Add Movie</string>
     <string name="search_results">Search Results</string>
     <string name="movies_to_watch">Movies To Watch</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="release_year">Release Year</string>
+    <string name="description">Description</string>
+    <string name="action_btn_remove">Remove</string>
+    <string name="action_settings">Setting</string>
+    <string name="btn_add_movie">ADD MOVIE</string>
 </resources>
