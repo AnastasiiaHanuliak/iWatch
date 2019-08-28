@@ -49,7 +49,7 @@ class SearchResultAdapter internal constructor(
         holder.itemView.setOnClickListener(View.OnClickListener {
             val intent = Intent(inflater.context, AddMovieActivity::class.java)
             intent.putExtra("movie_title", movies[position].title)
-            intent.putExtra("release_year", movies[position].releaseDate)
+            intent.putExtra("release_year", movies[position].releaseDate.substring(0,4))
             intent.putExtra("poster_path", movies[position].posterPath)
             inflater.context.startActivity(intent)
         })
