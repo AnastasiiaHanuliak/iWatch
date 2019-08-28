@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">iWatch</string>
+    <string name="add_movie">Додати Фільм</string>
+    <string name="search_results">Результати Пошуку</string>
+    <string name="movies_to_watch">Фільми для перегляду</string>
+    <string name="movie_title">Назва Фільму</string>
+    <string name="release_year">Рік випуску</string>
+    <string name="description">Опис</string>
+    <string name="action_btn_remove">Видалити</string>
+    <string name="action_settings">Налаштування</string>
+    <string name="btn_add_movie">ДОДАТИ ФІЛЬМ</string>
+</resources>
